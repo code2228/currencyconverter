@@ -1,7 +1,10 @@
+
 package currencyconverter;
 import java.util.ArrayList;
 import java.util.HashMap;
-public class currencyconverter{
+public class currencyconverter
+{
+    
     private Stringname;
     private String shortName;
     private HashMap<String,Double>
